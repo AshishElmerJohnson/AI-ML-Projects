@@ -4,4 +4,5 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 
 
 Objective :
+
 The classification goal is to predict the likelihood of a liability customer buying personal loans.
